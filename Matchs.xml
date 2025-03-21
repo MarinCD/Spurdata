@@ -1,0 +1,26 @@
+<Matchs>
+    <match>
+        <MatchID>1</MatchID>
+        <Adversaire>Thunder</Adversaire>
+        <Date>2023-10-10</Date>
+        <Lieu>Extérieur</Lieu>
+        <Resultat>Défaite</Resultat>
+        <DifScore>-1</DifScore>
+    </match>
+    <match>
+        <MatchID>2</MatchID>
+        <Adversaire>Heat</Adversaire>
+        <Date>2023-10-14</Date>
+        <Lieu>Extérieur</Lieu>
+        <Resultat>Victoire</Resultat>
+        <DifScore>+16</DifScore>
+    </match>
+    <match>
+        <MatchID>3</MatchID>
+        <Adversaire>Rockets</Adversaire>
+        <Date>2023-10-19</Date>
+        <Lieu>Domicile</Lieu>
+        <Resultat>Victoire</Resultat>
+        <DifScore>+14</DifScore>
+    </match>
+</Matchs>

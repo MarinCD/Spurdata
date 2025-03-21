@@ -1,0 +1,37 @@
+<equipe>
+    <joueur>
+        <Nom>Collins</Nom>
+        <Prénom>Zach</Prénom>
+        <Age>25</Age>
+        <Poid>113</Poid>
+        <Taille>211</Taille>
+    </joueur>
+    <joueur>
+        <Nom>Sochan</Nom>
+        <Prénom>Jeremy</Prénom>
+        <Age>20</Age>
+        <Poid>107</Poid>
+        <Taille>206</Taille>
+    </joueur>
+    <joueur>
+        <Nom>Johnson</Nom>
+        <Prénom>Keldon</Prénom>
+        <Age>24</Age>
+        <Poid>100</Poid>
+        <Taille>196</Taille>
+    </joueur>
+    <joueur>
+        <Nom>Wembanyama</Nom>
+        <Prénom>Victor</Prénom>
+        <Age>19</Age>
+        <Poid>95</Poid>
+        <Taille>224</Taille>
+    </joueur>
+    <joueur>
+        <Nom>Vassell</Nom>
+        <Prénom>Devin</Prénom>
+        <Age>23</Age>
+        <Poid>91</Poid>
+        <Taille>196</Taille>
+    </joueur>
+</equipe>
